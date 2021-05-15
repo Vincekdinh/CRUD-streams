@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "My streaming site",
+      "description": "This is cool!",
+      "id": 5
+    },
+    {
+      "title": "The Talanted Woman",
+      "description": "I've never seen this video!",
+      "id": 6
+    },
+    {
+      "title": "New stream with ID",
+      "description": "\"How you doing?\"",
+      "userId": "107557254344295756903",
+      "id": 10
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "This change was made with a PATCH request!",
+      "userId": "107557254344295756903",
+      "id": 12
+    },
+    {
+      "title": "Me Streaming Component Reuse!",
+      "description": "This stream is about refactoring for the second time!!!",
+      "id": 13
+    }
+  ]
+}
